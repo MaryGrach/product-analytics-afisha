@@ -1,0 +1,24 @@
+{
+  "snapshot_date": "2026-10-29",
+  "source": "Yandex Practicum public educational files",
+  "kaggle_mirror": "https://www.kaggle.com/datasets/slamethariyadi/y-afisha-site-visit",
+  "kaggle_mirror_version": 1,
+  "license_note": "Kaggle mirror declares Apache 2.0; upstream redistribution license not confirmed. Raw files are excluded from git.",
+  "files": {
+    "visits_log.csv": {
+      "url": "https://code.s3.yandex.net/datasets/visits_log.csv",
+      "sha256": "421674ac4cdac63b34ce87e13b057083f3f2fb8bbd56439763acfc8de36265d2",
+      "bytes": 25117663
+    },
+    "orders_log.csv": {
+      "url": "https://code.s3.yandex.net/datasets/orders_log.csv",
+      "sha256": "d06042bc76612758ea48900eb471f1b249ecaf16e5047dbcd80862e440a9ac86",
+      "bytes": 2287508
+    },
+    "costs.csv": {
+      "url": "https://code.s3.yandex.net/datasets/costs.csv",
+      "sha256": "f6e47f518201ea38e2cab930b8759e4afbdda36e18325ca2cb3832eacaeaa639",
+      "bytes": 49258
+    }
+  }
+}
